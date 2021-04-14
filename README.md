@@ -10,7 +10,7 @@ a.	The `FER_Result.ipynb` file contains the links to the data set `FER 2013` I u
 
 b.	`The FER_code.py` file contains only the code without any result. You can access the file using Jupyter notebook or any suitable IDE that supports python.
 
-Test Accuracy = 69%
+Test Accuracy = 59%
 
 ### Accuracy
 
